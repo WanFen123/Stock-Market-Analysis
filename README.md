@@ -1,6 +1,5 @@
 # Stock-Market-Analysis
 This repository contains the steps involved in constructing a predictive model for stock prediction. <br/>
-There are totally 6 milestones in this project, each milestone will be discussed in the following part.
 
 ## Data Sources
 There are 4 data sources used in this project. 
