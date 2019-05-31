@@ -49,5 +49,7 @@ The *PDF.csv* dataset is used in exploring and investigating the stock using **P
 A qualitative analysis is carried out using news headlines. The *processed_news.csv* dataset is explored using **news_exploration.py**.
 
 ## Milestone 5
-Two models are implemented in Milestone 5 using SAS Enterprise Miner - Decision Tree and Logistic Regression. Before implementing, all the data sources are combined into one complete dataset. The *all_combine_stock_news.csv* and *full_financial_statistics.csv* datasets are merged together using **data_combine.py**. The final dataset is uploaded with the name *Final_Dataset.csv*. <br/>
+Two models are implemented in Milestone 5 using SAS Enterprise Miner - Decision Tree and Logistic Regression. <br/>
+Before implementing, all the data sources are combined into one complete dataset. The *all_combine_stock_news.csv* and *full_financial_statistics.csv* datasets are merged together using **data_combine.py**. <br/>
+The final dataset is uploaded with the name *Final_Dataset.csv*. <br/>
 The *project.emp* is the SAS project file which can be used to build predictive models for stock market analysis.
